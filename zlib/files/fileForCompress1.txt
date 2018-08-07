@@ -1,0 +1,5 @@
+test gzip
+
+hello world ~
+
+你好！
