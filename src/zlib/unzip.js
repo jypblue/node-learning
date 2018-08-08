@@ -1,5 +1,7 @@
-const fs = require('fs');
+'use strict';
+
 const path = require('path');
+const fs = require('fs');
 const zlib = require('zlib');
 
 const unzip = zlib.createGunzip();
