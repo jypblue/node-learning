@@ -1,0 +1,3 @@
+hallo world
+test fs stat
+test fs statSync
